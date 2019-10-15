@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+
+    <title>Online Prospect Limited</title>
+    
+    <!-- Loading Bootstrap -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+
+    <!-- Loading Template CSS -->
+    <link href="../css/style.css" rel="stylesheet">
+    <link href="../css/animate.css" rel="stylesheet">
+    <link href="../css/style-magnific-popup.css" rel="stylesheet">
+
+    <!-- Loading Owl Carousel -->
+    <link rel="stylesheet" href="../owlcarousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="../owlcarousel/owl.theme.default.min.css">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700,700i,800" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+
+    <!-- Awsome Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" type="image/png" href="../favicon.png"/>
+	   
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="/js/html5shiv.js"></script>
+      <script src="/js/respond.min.js"></script>
+    <![endif]-->
+    
+    <!--headerIncludes-->
+    
+</head>
+
+<body>
+
+    <!--begin header -->
+    <header class="header">
+
+        <!--begin nav -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            
+            <!--begin container -->
+            <div class="container">
+        
+                <!--begin navbar -->
+                <div class="navbar-header">
+
+                    <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                        
+                    <!--logo -->
+                    <a href="../index.html" class="navbar-brand" id="logo"><img src="../images/logo.png" alt="logo"></a>
+
+                </div>
+                        
+                <div id="navbar-collapse-02" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">			      
+                        <li><a class="scrool" href="glyphicons-halflings-regular.eot?#home_wrapper">Home</a></li>
+                        <li><a class="scrool" href="glyphicons-halflings-regular.eot?#about">Advertising</a></li>
+                        <li><a class="scrool" href="glyphicons-halflings-regular.eot?#features">Features</a></li>
+						<li><a class="scrool" href="glyphicons-halflings-regular.eot?#services">Services</a></li>
+                        <li><a class="contact" href="../contact/index.html">Contact</a></li>
+						<li>
+						</li>
+                    </ul>
+
+                </div>
+                <div class="social-links">
+                    <a class="in" href="https://www.linkedin.com/company/online-prospect-com/" target="_blank"> <img class="in" src="../images/linkedin.png" alt="in"></a>
+                    <a class="fb" href="https://www.facebook.com/onlineprospect" target="_blank"><img class="fb" src="../images/facebooklike.png" alt="fb"></a>
+                </div>
+                <!--end navbar -->
+                                    
+            </div>
+    		<!--end container -->
+            
+        </nav>
+    	<!--end nav -->
+        
+    </header>
+    <!--end header -->
+
+    <!--begin hero section-->
+    <section class="luna-homewrapper" id="home_wrapper">
+
+    	<div class="luna-homewrapper-overlay"></div>
+
+		<!--begin container -->
+		<div class="container">
+
+	        <!--begin row -->
+	        <div class="row">
+
+	        	<!--begin col md 12 -->
+				<div class="col-md-12">
+
+					<div class="luna-headings text-center">
+
+						<h1>Building value for publishers <br>and advertisers</h1>
+
+						<p>At Online Prospect Network, we believe in leveraging technology to deliver superior returns for publishers and advertisers. We believe in being partners in your growth and have a culture of performance.  We have the experience, strategy, tools, and partnerships to deliver returns on your investments. We help build results for your business by optimizing spends based on digital analytics and online strategies. </p>
+
+						<div class="popup-gallery">
+
+	                        <a class="luna-video-icon" href="../join/index.html">
+	                            <i class="fa fa-user"></i> Sign Up</a>&nbsp
+	                            <a class="luna-video-icon" href="../loginform/index.html">
+	                            <i class="fa fa-user"></i> Log In</a>
+                        </div>
+
+					</div>
+					
+				</div>
+				<!--end col md 12 -->
+
+
+	        </div>
+	        <!--end row -->
+
+		</div>
+		<!--end container -->
+
+    </section>
+    <!--begin hero section-->
+
+    <!--begin section white-->
+  	<section class="section-white" id="about">
+
+	    <!--begin container -->
+	    <div class="container">
+
+			<!--begin row -->
+	      	<div class="row">			        
+
+		        <!--begin col md 6 -->
+				<div class="col-md-6">
+
+					<div class="luna-headings-dark  wow fadeInLeft" data-wow-delay="0.60s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
+
+					
+
+						<div class="luna-aboutbox">
+
+							<img src="../images/icon1.png" alt="icon">
+
+							<div class="luna-aboutbox-text">
+
+								<h4>Our business moto – transparency</h4>
+
+								<p>It’s a complex world, many things have changed in which they can have a direct impact on results. We believe in keeping you firmly in the driver’s seat. We deliver campaigns for leading international advertisers. The solutions we offer are created with transparency of transactions in mind. We know that you appreciate clear inputs when it comes to delivery, progress, and expectation. We give you full control and visibility of our products and solution.</p>
+								
+							</div>
+
+						</div>
+
+						<div class="luna-aboutbox">
+
+							<img src="../images/icon2.png" alt="icon">
+
+							<div class="luna-aboutbox-text">
+
+								<h4>Our strength – technology</h4>
+
+								<p>We evolve with changing technology requirements; our solutions are device agnostic and deliver returns across platforms. We are passionate about building relationships. Our bespoke approach governs the drive to finding the best solution. Whatever your goals are, we can advise you on how to best navigate the digital ecosystem. Our superior technology-driven platform will help you drive incremental revenue when you integrate our solutions into a cohesive digital marketing program.</p>
+								
+							</div>
+
+						</div>
+
+
+
+					</div>
+					
+				</div>
+				<!--end col md 6 -->
+
+
+		        <!--begin col md 6 -->
+				<div class="col-md-6">
+
+					<div class="luna-headings-dark  wow fadeInLeft" data-wow-delay="0.60s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
+
+						
+
+						
+						<div class="luna-aboutbox">
+
+							<img src="../images/icon4.png" alt="icon">
+
+							<div class="luna-aboutbox-text">
+
+								<h4>Our dedication – building trust</h4>
+
+								<p>The core business is all about generating results, it starts with building Trust with both our publishers and our advertisers. We focus on performance in display and retargeting, expertly accomplished through our programmatic understanding. Our team works closely with you to deliver quantifiable results and are available around the clock to help generate value. We deliver results by understanding your needs and deploying the best-suited strategy and solution for you. This bond of trust extends to our publishers generating value for them.</p>
+								
+							</div>
+
+						</div>
+						
+						<div class="luna-aboutbox">
+
+							<img src="../images/icon1.png" alt="icon">
+
+							<div class="luna-aboutbox-text">
+
+								<h4>Our strength – the team</h4>
+
+								<p>Our strength comes from a dedicated team, experienced, capable and ready for the next challenge. We promote diversity and reap the benefits. At “Online Prospect Networks” we have a global team that understands changing technology and the evolving needs of your business. This is our differentiator which makes us the top affiliate marketing provider.</p>
+								
+							</div>
+
+						</div>
+
+
+		
+
+					</div>
+					
+				</div>
+				<!--end col md 6 -->
+
+		    </div>
+	      	<!--end row --> 
+
+	    </div>
+	    <!--end container -->
+
+  	</section>
+  	<!--end section white -->
+
+    <!--begin section dark-->
+  	<section class="section-dark-xl" id="features">
+
+	    <!--begin container -->
+	    <div class="container">	
+
+			<!--begin row -->
+	      	<div class="row">	
+
+	      		<!--begin col md 12 -->
+		        <div class="col-md-12 text-center">
+
+		        	<div class="luna-headings-light">
+
+		        		<h3>Main Features</h3>		        		     		
+
+		        	</div>	        
+
+				</div>
+		        <!--end col md 12 -->
+
+	      	</div>
+	      	<!--end row -->
+
+	      	<!--begin row -->
+	      	<div class="row">  
+
+		        <!--begin col md 4 -->
+		        <div class="col-md-6 col-sm-12">
+
+		        	<div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.25s" style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInRight;">
+
+			        	<img src="../images/best-offers.png">
+		        		<h3>Best Offers</h3>
+		        		<p>Our award winning products and offers will drive traffic with ease. With an inventory of over 1200 offers and products you will find something that your readers will connect with.</p>
+		        		
+		        	</div>
+		        	
+				</div>
+		        <!--end col md 4 -->
+
+		        <!--begin col md 4 -->
+		        <div class="col-md-6 col-sm-12">
+
+		        	<div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.50s" style="visibility: visible; animation-delay: 0.50s; animation-name: fadeInRight;">
+
+			        	<img src="../images/customer-service.png">
+		        		<h3>Customer Service</h3>
+		        		<p>Through superior customer service our network drives performance for your business. Sign up and an account specialist will be asigned to your business in 24 hours.</p>
+		        		
+		        	</div>
+		        	
+				</div>
+		        <!--end col md 4 -->
+
+		        <!--begin col md 4 -->
+		        <div class="col-md-6 col-sm-12">
+
+		        	<div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.75s" style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInRight;">
+
+			        	<img src="../images/perfect-timing.png">
+		        		<h3>Perfect timing</h3>
+		        		<p>Our inventory changes constantly to hit the hottest markets. View our chalendar to see what's coming up next to correspond with national holidays and special occasions</p>
+		        		
+		        	</div>
+
+		        </div>
+		        <!--end col md 4 -->
+
+  
+
+		        <!--begin col md 4 -->
+		        <div class="col-md-6 col-sm-12">
+
+		        	<div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.25s" style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInRight;">
+
+			        	<img src="../images/revenue-models.png">
+		        		<h3>Revenue models</h3>
+		        		<p>With several revenue models you will find it easy to find the right one for you. Our award winning technology will help you monitor your income so that your records will be up to date.</p>
+		        		
+		        	</div>
+		        	
+				</div>
+		        <!--end col md 4 -->
+
+		        <!--begin col md 4 -->
+		       <div class="col-md-6 col-sm-12">
+
+		        	<div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.50s" style="visibility: visible; animation-delay: 0.50s; animation-name: fadeInRight;">
+
+			        	<img src="../images/video-tutorials.png">
+		        		<h3>Video Tutorials</h3>
+		        		<p>Once you join the network you will have access to over 50 video tutorials in over 10 languages to walk you through our system and teach you the tricks of the trade.</p>
+		        		
+		        	</div>
+		        	
+				</div>
+		        <!--end col md 4 -->
+
+		        <!--begin col md 4 -->
+		        <div class="col-md-6 col-sm-12">
+
+		        	<div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.75s" style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInRight;">
+
+			        	<img src="../images/payment-portal.png">
+		        		<h3>Payment Portal</h3>
+		        		<p>You don't need to worry about setting up a payment portal since we handle all the payments ourselves. So click back and concentrate on promotion and great content.</p>
+		        		
+		        	</div>
+		        	
+				</div>
+		        <!--end col md 4 -->
+
+		    </div>
+	      	<!--end row --> 
+
+	    </div>
+	    <!--end container -->
+
+  	</section>
+  	<!--section section dark -->
+
+
+  
+
+  	<!--begin section-grey-->
+  	<section class="section-grey" id="services">
+
+        <!--begin container -->
+        <div class="container">
+        
+            <!--begin row -->
+            <div class="row">  
+			
+		        <!--begin col md 4 -->
+		        <div class="col-md-6 p0">
+					<img src="../images/team.png" class="img-responsive" alt="team" style="padding-top: 50px; padding-bottom: 50px;">
+
+
+				</div>
+		        <!--end col md 4 -->	
+
+
+
+		        <!--begin col md 4 -->
+		        <div class="col-md-6 p0">
+
+
+
+		        		<div class="team-text" style="padding-top: 50px; padding-bottom: 50px;">
+		        			
+		        			<h4>Campaign Management Services</h4>
+
+		        			<p style="font-size: 14px; line-height: 26px;">With ever-changing consumer behaviour, connecting with the right prospects at the right place and time is crucial for driving successful Direct Marketing Campaigns. Thanks to our deep understanding of the digital marketing arena, we deploy strategically designed integrated marketing platform for managing and measuring effectiveness of campaigns.</p>
+		        			<p style="font-size: 14px; line-height: 26px; padding-bottom: 20px;">We, at Online-Prospect, follow a customer-centric approach to drive campaigns that engage prospect audience by creating awareness and generating interest. We address everything from target audience identification to execution to campaign analysis; improving sales performance and profitability.</p>
+		        			
+		        		<a href="../campaign/index.html" class="luna-video-icon footer-link">Get Started</a>
+		        		</div>
+		        		
+		        		
+
+
+
+
+
+
+				</div>
+		        <!--end col md 4 -->
+</div>
+</div>
+  	</section>
+  	<!--end section grey-->
+
+
+
+	
+    
+    <!--begin footer -->
+    <footer class="luna-footer">
+            
+        <!--begin container -->
+        <div class="container">
+        
+            <!--begin row -->
+            <div class="row">            
+
+
+
+
+				<!--begin col md 4 -->
+				<div class="col-md-12 col-xs-12">
+
+					<div class="luna-footerbox">
+
+						<i class="fa fa-map-marker"></i>
+
+						<span>Headquarters: Elve Blum-Wingen, flat 3503 392 Marsa, Dubai, UAE
+Hong Kong Office: 2003, 20/F, Tower 5, China Hong Kong City, 33 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong
+						</span>
+
+					</div>
+
+				</div>
+				<!--end col md 4-->
+
+			</div>
+            <!--end row -->	
+
+            <!--begin row -->
+            <div class="row"> 
+
+				<!--begin col md 12 -->
+				<div class="col-md-12">
+
+					<p class="luna-copyright">
+						<span>Copyright © 2018 Online Prospect Limited</span>			
+					</p>
+					<a href="../terms/index.html" class="luna-video-icon footer-link">Privacy policy</a>
+				</div>
+				<!--end col md 12-->
+				                
+            </div>
+            <!--end row -->
+            
+        </div>
+        <!--end container -->
+                
+    </footer>
+    <!--end footer -->
+
+
+<!-- Load JS here for greater good =============================-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" crossorigin="anonymous"></script>
+<script src="../js/jquery.scrollTo-min.js"></script>
+<script src="../js/jquery.nav.js"></script>
+<script src="../js/wow.js"></script>
+<script src="../js/countdown.js"></script>
+<script src="../js/custom.js"></script>
+<script src="../js/plugins.js"></script>
+
+
+
+
+</body>
+</html>
